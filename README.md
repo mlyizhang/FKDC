@@ -7,4 +7,4 @@ Author: Yizhang Wang, Wei Pang, Di Wang, Witold Pedrycz
 ![](https://img.shields.io/badge/-Files-4285F4?style=flat-square&logo=jupyter&logoColor=FFFFFF)  kfed.py: KFED algorithm.  
 ![](https://img.shields.io/badge/-Files-4285F4?style=flat-square&logo=jupyter&logoColor=FFFFFF)  mufc_main.py: MUFC algorithm.  
 ![](https://img.shields.io/badge/-Files-4285F4?style=flat-square&logo=jupyter&logoColor=FFFFFF)  data_generate.py: generate federated datasets.  
-We submmit it to TKDE.
+We submmit it to Tnnls.
